@@ -1,1 +1,2 @@
 # ExaminationSystem
+Developed a dual-portal system for teachers and students. Teachers can perform CRUD operations on student data, manage marks, timetables, and question papers, while students can view their marks, timetables, and question papers. The project features an interactive GUI built with Java Swing and AWT, efficient database connectivity using Java JDBC, and seamless data storage and timestamp operations using Java NIO and the Date and Time API.
